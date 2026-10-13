@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>雑記 on 玉藻文庫</title>
+    <link>http://localhost:1313/my-site/tags/%E9%9B%91%E8%A8%98/</link>
+    <description>Recent content in 雑記 on 玉藻文庫</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 11 Oct 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-site/tags/%E9%9B%91%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初めての記事</title>
+      <link>http://localhost:1313/my-site/posts/first-post/</link>
+      <pubDate>Sun, 11 Oct 2026 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-site/posts/first-post/</guid>
+      <description>&lt;p&gt;これは玉藻文庫の最初の記事です。&lt;/p&gt;
+&lt;p&gt;今後、神道・日本史・漢文・短歌などについて文章を掲載していきます。&lt;/p&gt;
+&lt;h2 id=&#34;初めまして&#34;&gt;初めまして&lt;/h2&gt;
+&lt;p&gt;サイトも文章も始まったばかり、誠に未熟さ一杯と謂えます。これからよろしくお願いします。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

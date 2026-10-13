@@ -1,0 +1,95 @@
+ruby {
+    ruby-position: over;
+}
+
+ruby rt {
+    font-size: 0.55em;
+}
+
+/* 横書き／縦書き切替ボタン */
+.writing-mode-toggle {
+    display: block;
+    margin: 0 0 1.5rem auto;
+    padding: 0.45rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--entry);
+    color: var(--primary);
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+/* 縦書き本文 */
+.post-content.vertical-writing {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+
+    /* 日文縦書きの改行・禁則処理 */
+    line-break: strict;
+    word-break: normal;
+    overflow-wrap: break-word;
+
+    max-height: 75vh;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    line-height: 2;
+    padding: 1rem;
+}
+/* 縦書き時の段落間隔 */
+.post-content.vertical-writing p {
+    margin: 0 0 0 1.5em;
+}
+
+/* 縦書き時の見出し */
+.post-content.vertical-writing h1,
+.post-content.vertical-writing h2,
+.post-content.vertical-writing h3,
+.post-content.vertical-writing h4 {
+    margin: 0 0 0 1.5em;
+}
+
+/* 縦書き時のリスト */
+.post-content.vertical-writing ul,
+.post-content.vertical-writing ol {
+    margin: 0 0 0 1.5em;
+}
+
+/* 縦書き時の引用 */
+.post-content.vertical-writing blockquote {
+    margin: 0 0 0 1.5em;
+}
+
+/* 縦中横 */
+.post-content.vertical-writing .tcy {
+    text-combine-upright: all;
+    -webkit-text-combine: horizontal;
+}
+
+/* 縦書き時の画像 */
+.post-content.vertical-writing img {
+    writing-mode: horizontal-tb;
+    max-width: min(70vw, 900px);
+    max-height: 70vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    break-inside: avoid;
+}
+
+/* figure を使う場合 */
+.post-content.vertical-writing figure {
+    writing-mode: horizontal-tb;
+    display: inline-block;
+    max-width: min(70vw, 900px);
+    margin: 0 0 0 2em;
+    break-inside: avoid;
+}
+
+.post-content.vertical-writing figcaption {
+    writing-mode: horizontal-tb;
+    text-align: center;
+    margin-top: 0.5em;
+    font-size: 0.9em;
+}

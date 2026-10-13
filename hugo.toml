@@ -9,8 +9,49 @@ theme = "PaperMod"
   ShowToc = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  mainSections = ["posts"]
-
+  mainSections = ["posts", "shinto", "kanbun", "tanka", "photos"]
 [params.homeInfoParams]
   Title = "玉藻文庫"
   Content = "神道・日本史・漢文・短歌・写真などを収める個人文庫。"
+
+[[menus.main]]
+name = "文章"
+pageRef = "/posts"
+weight = 10
+
+[[menus.main]]
+name = "神道"
+pageRef = "/shinto"
+weight = 20
+
+[[menus.main]]
+name = "漢文"
+pageRef = "/kanbun"
+weight = 30
+
+[[menus.main]]
+name = "短歌"
+pageRef = "/tanka"
+weight = 40
+
+[[menus.main]]
+name = "写真"
+pageRef = "/photos"
+weight = 50
+
+[[menus.main]]
+name = "検索"
+pageRef = "/search"
+weight = 60
+
+[[menus.main]]
+name = "タグ"
+pageRef = "/tags"
+weight = 55
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# Nested article-version shortcodes render the existing ruby HTML.
+[markup.goldmark.renderer]
+unsafe = true

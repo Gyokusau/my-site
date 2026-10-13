@@ -1,0 +1,4 @@
+<section class="text-version" data-label="{{ .Get "label" }}" data-missing="{{ .Get "missing" | default "false" }}">
+  <h2 class="text-version-heading">{{ .Get "label" }}</h2>
+  {{ .Page.RenderString (dict "display" "block") .Inner }}
+</section>

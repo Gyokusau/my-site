@@ -1,0 +1,43 @@
+.text-version-controls {
+    margin: 0 0 1.25rem;
+    writing-mode: horizontal-tb;
+}
+.text-version-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+}
+.text-version-tabs button {
+    padding: .5rem .85rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--primary);
+    background: var(--entry);
+    cursor: pointer;
+    font: inherit;
+}
+.text-version-tabs button[aria-selected="true"] {
+    background: var(--primary);
+    color: var(--theme);
+}
+.text-version-tabs button:disabled {
+    opacity: .55;
+    cursor: default;
+}
+.text-version-tabs button:focus-visible,
+.text-version:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 3px;
+}
+.text-version[hidden],
+.text-versions-enhanced .text-version-heading {
+    display: none !important;
+}
+.post-content.vertical-writing .text-versions {
+    inline-size: 65vh;
+    block-size: max-content;
+}
+.post-content.vertical-writing .text-version {
+    block-size: max-content;
+    inline-size: 100%;
+}
