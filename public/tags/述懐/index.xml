@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>述懐 on 玉藻文庫</title>
+    <link>http://localhost:1313/my-site/tags/%E8%BF%B0%E6%87%90/</link>
+    <description>Recent content in 述懐 on 玉藻文庫</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <atom:link href="http://localhost:1313/my-site/tags/%E8%BF%B0%E6%87%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>異郷に暮らす友を思ひて</title>
+      <link>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</guid>
+      <description>&lt;p&gt;幼き頃、親に伴はれて異国に渡り、
+今なほ言葉に苦しむ友の身の上を聞きて詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;幼&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;をさな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;き&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;身&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;親&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おや&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;につられて&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;郷離&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さとばな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;れ&lt;br&gt;
+みたり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;住&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;めども&lt;br&gt;
+ひとり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;い&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;きるや&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

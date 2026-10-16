@@ -1,4 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
+    if (window.pageDisableWritingToggle === true) {
+        return;
+    }
     const content = document.querySelector(".post-content");
 
     if (!content) {

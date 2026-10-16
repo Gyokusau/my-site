@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>狂歌 on 玉藻文庫</title>
+    <link>http://localhost:1313/my-site/tags/%E7%8B%82%E6%AD%8C/</link>
+    <description>Recent content in 狂歌 on 玉藻文庫</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <atom:link href="http://localhost:1313/my-site/tags/%E7%8B%82%E6%AD%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>夏祭りの戯れ</title>
+      <link>http://localhost:1313/my-site/tanka/natsumatsuri-no-tawamure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/natsumatsuri-no-tawamure/</guid>
+      <description>&lt;p&gt;夏の宵、神輿の宮入りに人々の沸き立つさまを見て、ふと戯れ心の起こりければ、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;夏&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;なつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;宵&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よひ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+みこし&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;宮入&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;みやい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;り&lt;br&gt;
+みな&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;狂&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;くる&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ひ&lt;br&gt;
+みこしみこして&lt;br&gt;
+あな&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;好&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;き&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;女&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;め&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;をば&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/NipporiHikawa.jpg&#34;
+  alt=&#34;神輿渡御&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+  </channel>
+</rss>

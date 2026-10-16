@@ -29,5 +29,40 @@
       <guid>http://localhost:1313/my-site/tags/%E9%9B%91%E8%A8%98/</guid>
       <description></description>
     </item>
+    <item>
+      <title>狂歌</title>
+      <link>http://localhost:1313/my-site/tags/%E7%8B%82%E6%AD%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tags/%E7%8B%82%E6%AD%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>皇室</title>
+      <link>http://localhost:1313/my-site/tags/%E7%9A%87%E5%AE%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tags/%E7%9A%87%E5%AE%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>神祇</title>
+      <link>http://localhost:1313/my-site/tags/%E7%A5%9E%E7%A5%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tags/%E7%A5%9E%E7%A5%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>述懐</title>
+      <link>http://localhost:1313/my-site/tags/%E8%BF%B0%E6%87%90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tags/%E8%BF%B0%E6%87%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>雑詠</title>
+      <link>http://localhost:1313/my-site/tags/%E9%9B%91%E8%A9%A0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tags/%E9%9B%91%E8%A9%A0/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

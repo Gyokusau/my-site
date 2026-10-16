@@ -1,11 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>短歌 on 玉藻文庫</title>
+    <title>玉藻歌集 on 玉藻文庫</title>
     <link>http://localhost:1313/my-site/tanka/</link>
-    <description>Recent content in 短歌 on 玉藻文庫</description>
+    <description>Recent content in 玉藻歌集 on 玉藻文庫</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
     <atom:link href="http://localhost:1313/my-site/tanka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>上皇陛下の大御心を仰ぎて</title>
+      <link>http://localhost:1313/my-site/tanka/mi-no-nochi-mo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/mi-no-nochi-mo/</guid>
+      <description>&lt;p&gt;上皇陛下、御身の後の御葬送に至るまで、国民の負担を軽からしめむとの大御心を示し給ひしことを聞き、その御仁慈を仰ぎ奉りて、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;身&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;後&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;のち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;も&lt;br&gt;
+この&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;世&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;を&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;思&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おぼ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;し&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;大君&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おほきみ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;我&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;われ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;らぞ&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;仰&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あふ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ぐ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;大御心&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おほみこころ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;や&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/Kyouto_Sentou.jpg&#34;
+  alt=&#34;京都仙洞御所&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
+      <title>夏祭りの戯れ</title>
+      <link>http://localhost:1313/my-site/tanka/natsumatsuri-no-tawamure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/natsumatsuri-no-tawamure/</guid>
+      <description>&lt;p&gt;夏の宵、神輿の宮入りに人々の沸き立つさまを見て、ふと戯れ心の起こりければ、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;夏&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;なつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;宵&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よひ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+みこし&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;宮入&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;みやい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;り&lt;br&gt;
+みな&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;狂&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;くる&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ひ&lt;br&gt;
+みこしみこして&lt;br&gt;
+あな&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;好&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;き&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;女&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;め&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;をば&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/NipporiHikawa.jpg&#34;
+  alt=&#34;神輿渡御&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
+      <title>明治神宮の杜</title>
+      <link>http://localhost:1313/my-site/tanka/arechi-wo-ba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/arechi-wo-ba/</guid>
+      <description>&lt;p&gt;明治神宮の杜は、荒れたる地に全国より献ぜられし木々を植ゑて成れるものなり。その由来を知り、神宮を崇敬する人々のまごころを思ひて、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;荒地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あれち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;をば&lt;br&gt;
+とこしへの&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;杜&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;もり&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;成&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;な&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;し&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;変&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;えて&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;代々木&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よよぎ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;坐&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ましま&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;す&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;萬&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よろづ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;偲&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;び&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/meijijingu_mori.jpg&#34;
+  alt=&#34;外苑の一景&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
+      <title>未題（天地に）</title>
+      <link>http://localhost:1313/my-site/tanka/ametsuchi-ni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/ametsuchi-ni/</guid>
+      <description>&lt;p&gt;大君の御稜威を仰ぎ、その御恩の深きを思ひ、民草たる我が身はいかにして報い奉らむと、詠める。&lt;/p&gt;
+&lt;div class=&#34;text-versions&#34;&gt;
+
+
+&lt;section class=&#34;text-version&#34; data-label=&#34;第五句案：我れ民草は&#34; data-missing=&#34;false&#34;&gt;
+  &lt;h2 class=&#34;text-version-heading&#34;&gt;第五句案：我れ民草は&lt;/h2&gt;
+  &lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;天地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あめつち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;に&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;満&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ちたる&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;御稜威&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;みいつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;大君&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おほきみ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;br&gt;
+いかに&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;報&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;いむ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;我&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;わ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;れ&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;民草&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たみくさ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;は&lt;/p&gt;
+
+&lt;/section&gt;
+
+
+&lt;section class=&#34;text-version&#34; data-label=&#34;第五句案：唯斎くのみ&#34; data-missing=&#34;false&#34;&gt;
+  &lt;h2 class=&#34;text-version-heading&#34;&gt;第五句案：唯斎くのみ&lt;/h2&gt;
+  &lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;天地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あめつち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;に&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;満&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ちたる&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;御稜威&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;みいつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;大君&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おほきみ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;br&gt;
+いかに&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;報&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;いむ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;唯&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ただ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;斎&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;いつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;くのみ&lt;/p&gt;
+
+&lt;/section&gt;
+
+
+
+&lt;/div&gt;
+
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/Nankouzou.jpg&#34;
+  alt=&#34;皇居外苑の楠公像&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
+      <title>歌舞伎町の夜を見て</title>
+      <link>http://localhost:1313/my-site/tanka/kabukicho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/kabukicho/</guid>
+      <description>&lt;p&gt;ある夜、歌舞伎町に行きて、灯火きらめく街に男女の群れ集ふを見、その賑はひのさまをいぶかしく思ひて、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;歌舞伎町&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かぶきちゃう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;幻&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まぼろし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;のもと&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;夜&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よる&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;集&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;つど&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ひ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;男女&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;だんぢょ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;はいかで&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;楽&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;しむらむや&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/Kabukicho_Ichibangai.jpg&#34;
+  alt=&#34;夜の歌舞伎町一番街&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
+      <title>異郷に暮らす友を思ひて</title>
+      <link>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</guid>
+      <description>&lt;p&gt;幼き頃、親に伴はれて故郷を離れ、異国に暮らす友あり。年月を経るも、なほ言葉に苦しみ、家族の中にありながら孤独を抱くと聞き、その身の上を思ひて、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;幼&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;をさな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;き&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;身&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;親&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おや&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;につられて&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;郷離&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さとばな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;れ&lt;br&gt;
+みたり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;住&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;めども&lt;br&gt;
+ひとり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;い&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;きるや&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/ChibaMinato.jpg&#34;
+  alt=&#34;黄昏のみなと&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
   </channel>
 </rss>

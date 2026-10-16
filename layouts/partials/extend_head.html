@@ -1,6 +1,9 @@
 <script>
   window.pageDefaultVertical =
     {{ if .Params.vertical }}true{{ else }}false{{ end }};
+
+  window.pageDisableWritingToggle =
+    {{ if .Params.disableWritingToggle }}true{{ else }}false{{ end }};
 </script>
 
 <script src="{{ "js/tategaki.js" | relURL }}" defer></script>
