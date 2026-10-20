@@ -12,11 +12,17 @@
       <link>http://localhost:1313/my-site/tanka/arechi-wo-ba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-site/tanka/arechi-wo-ba/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;荒地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あれち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;をば&lt;br&gt;
+      <description>&lt;p&gt;明治神宮の杜は、荒れたる地に全国より献ぜられし木々を植ゑて成れるものなり。その由来を知り、神宮を崇敬する人々のまごころを思ひて、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;荒地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あれち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;をば&lt;br&gt;
 とこしへの&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;杜&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;もり&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
 &lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;成&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;な&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;し&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;変&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;えて&lt;br&gt;
 &lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;代々木&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よよぎ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;坐&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ましま&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;す&lt;br&gt;
-&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;萬&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よろづ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;偲&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;び&lt;/p&gt;</description>
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;萬&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よろづ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;偲&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;び&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/meijijingu_mori.jpg&#34;
+  alt=&#34;外苑の一景&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
     </item>
   </channel>
 </rss>

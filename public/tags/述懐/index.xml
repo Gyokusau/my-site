@@ -8,17 +8,68 @@
     <language>ja-JP</language>
     <atom:link href="http://localhost:1313/my-site/tags/%E8%BF%B0%E6%87%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>未題（天地に）</title>
+      <link>http://localhost:1313/my-site/tanka/ametsuchi-ni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/ametsuchi-ni/</guid>
+      <description>&lt;p&gt;大君の御稜威を仰ぎ、その御恩の深きを思ひ、民草たる我が身はいかにして報い奉らむと、詠める。&lt;/p&gt;
+&lt;div class=&#34;text-versions&#34;&gt;
+
+
+&lt;section class=&#34;text-version&#34; data-label=&#34;第五句案：我れ民草は&#34; data-missing=&#34;false&#34;&gt;
+  &lt;h2 class=&#34;text-version-heading&#34;&gt;第五句案：我れ民草は&lt;/h2&gt;
+  &lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;天地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あめつち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;に&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;満&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ちたる&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;御稜威&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;みいつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;大君&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おほきみ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;br&gt;
+いかに&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;報&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;いむ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;我&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;わ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;れ&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;民草&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たみくさ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;は&lt;/p&gt;
+
+&lt;/section&gt;
+
+
+&lt;section class=&#34;text-version&#34; data-label=&#34;第五句案：唯斎くのみ&#34; data-missing=&#34;false&#34;&gt;
+  &lt;h2 class=&#34;text-version-heading&#34;&gt;第五句案：唯斎くのみ&lt;/h2&gt;
+  &lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;天地&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あめつち&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;に&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;満&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ちたる&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;御稜威&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;みいつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;大君&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おほきみ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;の&lt;br&gt;
+いかに&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;報&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;いむ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;唯&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ただ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;斎&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;いつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;くのみ&lt;/p&gt;
+
+&lt;/section&gt;
+
+
+
+&lt;/div&gt;
+
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/Nankouzou.jpg&#34;
+  alt=&#34;皇居外苑の楠公像&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
+      <title>王化論</title>
+      <link>http://localhost:1313/my-site/kanbun/oukaron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/kanbun/oukaron/</guid>
+      <description>王化論の原文と書き下し文。</description>
+    </item>
+    <item>
       <title>異郷に暮らす友を思ひて</title>
       <link>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</guid>
-      <description>&lt;p&gt;幼き頃、親に伴はれて異国に渡り、
-今なほ言葉に苦しむ友の身の上を聞きて詠める。&lt;/p&gt;
+      <description>&lt;p&gt;幼き頃、親に伴はれて故郷を離れ、異国に暮らす友あり。年月を経るも、なほ言葉に苦しみ、家族の中にありながら孤独を抱くと聞き、その身の上を思ひて、詠める。&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;幼&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;をさな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;き&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;身&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
 &lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;親&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おや&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;につられて&lt;br&gt;
 &lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;郷離&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さとばな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;れ&lt;br&gt;
 みたり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;住&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;めども&lt;br&gt;
-ひとり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;い&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;きるや&lt;/p&gt;</description>
+ひとり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;い&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;きるや&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/ChibaMinato.jpg&#34;
+  alt=&#34;黄昏のみなと&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
     </item>
   </channel>
 </rss>

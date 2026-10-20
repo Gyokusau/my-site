@@ -8,17 +8,38 @@
     <language>ja-JP</language>
     <atom:link href="http://localhost:1313/my-site/tags/%E9%9B%91%E8%A9%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>歌舞伎町の夜を見て</title>
+      <link>http://localhost:1313/my-site/tanka/kabukicho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-site/tanka/kabukicho/</guid>
+      <description>&lt;p&gt;ある夜、歌舞伎町に行きて、灯火きらめく街に男女の群れ集ふを見、その賑はひのさまをいぶかしく思ひて、詠める。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;歌舞伎町&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かぶきちゃう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;幻&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まぼろし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;のもと&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;夜&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よる&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;集&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;つど&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;ひ&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;男女&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;だんぢょ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;はいかで&lt;br&gt;
+&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;楽&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;しむらむや&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/Kabukicho_Ichibangai.jpg&#34;
+  alt=&#34;夜の歌舞伎町一番街&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
+    </item>
+    <item>
       <title>異郷に暮らす友を思ひて</title>
       <link>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-site/tanka/ikyo-ni-kurasu-tomo/</guid>
-      <description>&lt;p&gt;幼き頃、親に伴はれて異国に渡り、
-今なほ言葉に苦しむ友の身の上を聞きて詠める。&lt;/p&gt;
+      <description>&lt;p&gt;幼き頃、親に伴はれて故郷を離れ、異国に暮らす友あり。年月を経るも、なほ言葉に苦しみ、家族の中にありながら孤独を抱くと聞き、その身の上を思ひて、詠める。&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;幼&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;をさな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;き&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;身&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;br&gt;
 &lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;親&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おや&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;につられて&lt;br&gt;
 &lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;郷離&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さとばな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;れ&lt;br&gt;
 みたり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;住&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;めども&lt;br&gt;
-ひとり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;い&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;きるや&lt;/p&gt;</description>
+ひとり&lt;span style=&#34;display: inline-block; white-space: nowrap;&#34;&gt;&lt;ruby&gt;生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;い&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;きるや&lt;/p&gt;
+&lt;img
+  src=&#34;http://localhost:1313/my-site/images/ChibaMinato.jpg&#34;
+  alt=&#34;黄昏のみなと&#34;
+  loading=&#34;lazy&#34;
+&gt;</description>
     </item>
   </channel>
 </rss>

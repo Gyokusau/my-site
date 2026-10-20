@@ -1,6 +1,6 @@
 +++
 title = "異郷に暮らす友を思ひて"
-draft = true
+draft = false
 vertical = true
 ShowToc = false
 tags = ["雑詠", "述懐"]
