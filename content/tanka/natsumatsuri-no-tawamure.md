@@ -1,5 +1,6 @@
 +++
 title = "夏祭りの戯れ"
+author = "玉藻秀樹"
 draft = false
 vertical = true
 ShowToc = false

@@ -1,5 +1,6 @@
 +++
 title = "勘申列聖廟號事"
+date = '2026-10-20'
 author = "玉藻秀樹"
 draft = false
 vertical = true

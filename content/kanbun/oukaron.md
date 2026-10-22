@@ -1,6 +1,7 @@
 +++
 title = "王化論"
 author = "玉藻秀樹"
+date = '2026-10-13'
 draft = false
 vertical = true
 ShowToc = false
