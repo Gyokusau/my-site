@@ -1,5 +1,6 @@
 +++
 title = "異郷に暮らす友を思ひて"
+author = "玉藻秀樹"
 draft = false
 vertical = true
 ShowToc = false

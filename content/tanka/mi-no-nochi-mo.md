@@ -1,5 +1,6 @@
 +++
 title = "上皇陛下の大御心を仰ぎて"
+author = "玉藻秀樹"
 draft = false
 vertical = true
 ShowToc = false

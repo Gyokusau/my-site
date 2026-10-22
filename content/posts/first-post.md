@@ -2,6 +2,7 @@
 date = '2026-10-11T10:00:00+09:00'
 draft = false
 title = '初めての記事'
+author = "玉藻秀樹"
 vertical = true
 tags = ["雑記", "サイト"]
 +++

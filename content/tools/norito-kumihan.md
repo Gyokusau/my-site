@@ -1,6 +1,6 @@
 +++
 title = "祝詞組版室"
-date = '2026-10-20'
+date = '2026-10-22'
 author = "玉藻秀樹"
 draft = false
 vertical = false
@@ -13,4 +13,4 @@ description = "祝詞を奉書紙にて墨書する前に、汝ぢ宜しく三�
 
 七折半の奉書紙を想定し、祝詞の文字指定・行割り・宣命書き・印刷用レイアウト・奉書紙に墨書することを補助するツールです。
 
-[祝詞組版室を開く](/my-site/tools/norito/)
+[祝詞組版室を開く](/my-site/tools/norito/index.html)

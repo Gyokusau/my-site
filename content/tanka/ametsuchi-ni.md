@@ -1,5 +1,6 @@
 +++
 title = "未題（天地に）"
+author = "玉藻秀樹"
 draft = false
 vertical = true
 ShowToc = false

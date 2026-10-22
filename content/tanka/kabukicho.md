@@ -1,5 +1,6 @@
 +++
 title = "歌舞伎町の夜を見て"
+author = "玉藻秀樹"
 draft = false
 vertical = true
 ShowToc = false

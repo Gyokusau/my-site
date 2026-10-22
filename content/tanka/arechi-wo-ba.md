@@ -1,5 +1,6 @@
 +++
 title = "明治神宮の杜"
+author = "玉藻秀樹"
 draft = false
 vertical = true
 ShowToc = false
