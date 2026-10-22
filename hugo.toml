@@ -40,6 +40,11 @@ pageRef = "/photos"
 weight = 50
 
 [[menus.main]]
+name = "道具"
+pageRef = "/tools"
+weight = 55
+
+[[menus.main]]
 name = "検索"
 pageRef = "/search"
 weight = 60

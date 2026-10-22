@@ -64,6 +64,8 @@
   </url><url>
     <loc>http://localhost:1313/my-site/tags/%E8%BF%B0%E6%87%90/</loc>
   </url><url>
+    <loc>http://localhost:1313/my-site/tools/</loc>
+  </url><url>
     <loc>http://localhost:1313/my-site/tags/%E9%9B%91%E8%A9%A0/</loc>
   </url>
 </urlset>
